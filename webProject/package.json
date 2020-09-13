@@ -1,0 +1,16 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "description": "2",
+  "main": "index.js",
+  "scripts": {
+    "sasstocss": "node-sass sass/style.scss css/style.css -w  "
+  },
+  "author": "Trung Nguyen",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "rerun-script": "^0.6.0"
+  }
+}
